@@ -1,4 +1,6 @@
-### Hi there 👋
+# Olá, me chamo Maíra! 
+## Bem-vindo ao meu repositório! Aqui, estou compartilhando minha jornada de aprendizado em programação, onde tenho me dedicado a aprimorar minhas habilidades em C, C++ e Java.
+
 
 <!--
 **mairaallacerda/mairaallacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
