@@ -4,7 +4,7 @@
 
 - Estou focada em aprender a linguagem de programação C, bem como aprofundar meu conhecimento em C++ e Java
 - Estou constantemente revisando e aprimorando meus códigos para seguir as melhores práticas e padrões de programação.
-- Além do C, C++ e Java, estou sempre aberto a explorar novas linguagens e paradigmas de programação. </h5>
+- Além do C, C++ e Java, estou sempre aberta a explorar novas linguagens e paradigmas de programação. </h5>
 
 
 ### Contatos:
