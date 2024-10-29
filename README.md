@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4CB050&center=true&vCenter=true&width=500&lines=Olá%2C+meu+nome+é+Maíra!;Bem-vindo+ao+meu+repositório!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4CB050&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+repositório!)](https://git.io/typing-svg)
 
 **Explorando e aprimorando habilidades em programação, sempre em busca de conhecimento e novas aventuras tecnológicas. 🚀**
 
